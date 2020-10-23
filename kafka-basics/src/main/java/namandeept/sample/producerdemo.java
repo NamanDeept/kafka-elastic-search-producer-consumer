@@ -1,4 +1,4 @@
-package com.github.namandeept.sample;
+package namandeept.sample;
 
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;
