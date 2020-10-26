@@ -18,8 +18,11 @@ A bunch of keys will be available for your given cluster , copy the URL into con
 
 
 Example : 
- key-URL: https://l33o29can1:lv89q60d1l@kafka-twitter-3954019433.us-east-1.bonsaisearch.net:443
+   
+    key-URL: https://l33o29can1:lv89q60d1l@kafka-twitter-3954019433.us-east-1.bonsaisearch.net:443
+ 
     ID : 2gxZVnUBv93224yC_CD1 (uniquely generated puts on the data to the elastic search)
+    
     custom-tweet-key : GET:twitter/tweets/ID
 
 
